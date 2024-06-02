@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-👋 Hello, I'm Yash Bansal!<br><br>🚀 I am a computer science engineer with a specialisation in Distributing computing, Low latency Code.<br><br>🌱 In my free time, I enjoy reading and listening to music.<br><br>🔧 I'm always eager to expand my skill set and stay up-to-date with the latest industry trends.<br><br>📚 I'm a firm believer in the power of open-source and collaboration. <br><br>💡 I enjoy sharing my knowledge and experiences with others. I actively contribute to the tech community through writing technical articles on hashnode.<br><br>🌟 detail-oriented, curious, and dedicated, I'm on a continuous journey of learning and improvement. Let's connect and make an impact together!<br>
+👋 Hello, I'm Yash Bansal!<br>🚀 I am a computer science engineer with a specialisation in Distributing computing, Low latency Code.<br>🌱 In my free time, I enjoy reading and listening to music.<br>🔧 I'm always eager to expand my skill set and stay up-to-date with the latest industry trends.<br>💡 I enjoy sharing my knowledge and experiences with others.<br>🌟 detail-oriented, curious, and dedicated, I'm on a continuous journey of learning and improvement. Let's connect and make an impact together!<br>
 
 
 ## 🌐 Linkedin:
